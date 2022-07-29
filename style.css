@@ -54,6 +54,15 @@ footer
 }
 }
 
+@media only screen and (max-width: 767px) {
+  
+  footer
+  {
+    height: 130vh;
+    background-color: black;
+  }
+  }
+
 /* @media only screen and (max-width:767px) {
   
 .w-sm-100
