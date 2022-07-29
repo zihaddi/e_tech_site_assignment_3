@@ -1,0 +1,64 @@
+.img-w-100 {
+  width: 100% !important;
+  height: 78vh;
+  background:rgba(0,0,0,0.2);
+}
+
+
+
+.bg-succes
+{
+  background-color:black;
+ 
+} 
+.h-254
+{
+  height: 25%;
+}
+.text-justify
+{
+  text-align: justify;
+}
+.hover
+{
+  background-color: white;
+}
+.hover:hover
+{
+  background-color: blue;
+  color: white;
+}
+.w-16
+{
+  width: 8vw;
+ 
+  padding-top: 0%;
+  margin-top:0% ;
+}
+.w-10
+{
+  width: 8%;
+}
+footer
+{
+  height: 50vh;
+  background-color: black;
+}
+
+@media only screen and (max-width: 992px) and (min-width: 768px){
+  
+footer
+{
+  height: 130vh;
+  background-color: black;
+}
+}
+
+/* @media only screen and (max-width:767px) {
+  
+.w-sm-100
+{
+  width: 100%;
+}
+  } */
+ 
